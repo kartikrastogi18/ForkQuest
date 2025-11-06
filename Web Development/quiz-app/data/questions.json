@@ -1,3 +1,28 @@
 [
-     
+ {
+    "id": 1,
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "What does DOM stand for?",
+    "options": [
+      "Document Object Model",
+      "Data Object Model",
+      "Digital Object Model",
+      "Document Oriented Model"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which method is used to parse a string to an integer in JavaScript?",
+    "options": [
+      "parseInt()",
+      "parseInteger()",
+      "toInt()",
+      "convertInt()"
+    ],
+    "correctAnswer": 0
+  }
 ]

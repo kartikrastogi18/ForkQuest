@@ -41,10 +41,12 @@ ForkQuest/
    |- datasets
    |- mini_project
    |- README..md
+   |- requirements.txt
 |- Scripts and Utilities
    |- Bash
    |- Python
    |- README.md
+   |- requirements.txt
 |- Web Development
    |- quiz-app
    |- README.md
